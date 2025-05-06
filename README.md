@@ -1,5 +1,7 @@
 **SpaceX Display:**
 
+I used React Native + Expo, and the code uses TypeScript. 
+
 Details:
 The API link that was provided in the document was not loading for me, and I believe the permissions were readjusted and the public no longer has access to it. 
 Because of this, I ended up using an online substitute for launches. However, this API does not have images, so my launch details page (that appears when you click on 
